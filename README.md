@@ -10,4 +10,5 @@ Thành viên:
 - Vương Minh Khuê: B19DCCN365
   - Giao diện và hiển thị dữ liệu bằng thymeleaf
   - Code product.controller để hiển thị dữ liệu lên giao diện và cập nhật dữ liệu trong database
+  - Thêm data validation để kiểm tra dữ liệu nhập
   - Fix các lỗi và push code lên git
